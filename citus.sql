@@ -53,6 +53,8 @@ Worker1 node port:9991
 
 \d //run this command to view the list of distributed tables
 
+heloo world
+
 Worker2 node port:9992
 =======================
 
